@@ -19,7 +19,7 @@ p{
     text-align: center;
     font-family: cursive;
     align-items: center;
-    orientation: !important;
+    
 }
 .d{
     text-align: center;
@@ -212,4 +212,7 @@ footer{
 }
 .form{
     text-align: center;
+}
+.greeting{
+  text-align: center;
 }
